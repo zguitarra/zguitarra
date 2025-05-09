@@ -9,8 +9,8 @@ Software Engineer
 Azure DevOps | AuraQuantic 
 </h3>
 
-- 🎓 Desarrolladora en Software.
-- 🧩 Orientada al diseño e implementación de soluciones tecnológicas escalables.
+- 🎓 Desarrolladora de Software.
+- 🧩 Conocimiento en automatización de procesos.
 - 📚 Comprometida con la mejora continua y el aprendizaje de nuevas herramientas.   
 <h3 align="left">Tecnologías</h3>
 <p align="left">   

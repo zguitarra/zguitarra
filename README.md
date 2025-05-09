@@ -5,9 +5,9 @@ Hola, soy Zamia Guitarra!
 <h2 align="center">
 Software Engineer
 </h2>
-<h2>
+<h3 align="center">
 Azure DevOps | AuraQuantic | NodeJS | Git
-</h2>
+</h3>
 
 - 🎓 Desarrolladora en Software.
 - 🧩 Orientada al diseño e implementación de soluciones tecnológicas escalables.
